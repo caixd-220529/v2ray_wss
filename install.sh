@@ -90,7 +90,7 @@ if [ $# -ge 1 ]; then
         path=$(echo -n $v2ray_id | tail -c 12)
     fi
 
-    proxy_site="https://www.bilibili.com"
+    proxy_site="https://www.sysu.edu.cn"
 
     echo -e "domain: ${domain}"
     echo -e "netstack: ${netstack}"
